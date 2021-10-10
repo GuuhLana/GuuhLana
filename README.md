@@ -1,7 +1,8 @@
 **Olá, eu sou o Gustavo !!**
 
-- 👀 Busco oportunidades com desenvolvimento back-end/front-end
-- 🌱 Atualmente estou estudando para me tornar um desenvolvedor fullstack
+- 👀 Busco oportunidades como desenvolvedor back-end/front-end
+- 🌱 Estou estudando para me tornar um desenvolvedor fullstack
+- 📖 Gosto de jogar e ler livros sobre diversas mitologias
 - 📫 Como entrar em contato comigo? (gustavolr401@gmail.com)
 
 <div align="center">
