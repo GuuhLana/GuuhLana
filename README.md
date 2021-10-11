@@ -2,7 +2,7 @@
 
 - 👀 Busco oportunidades como desenvolvedor back-end/front-end
 - 🌱 Estou estudando para me tornar um desenvolvedor fullstack
-- 📖 Gosto de jogar e ler livros sobre diversas mitologias
+- 📖 Gosto de jogar e ler livros sobre mitologias
 - 📫 Como entrar em contato comigo? (gustavolr401@gmail.com)
 
 <div align="center">
