@@ -1,8 +1,8 @@
 **Olá, eu sou o Gustavo !!**
 
 - 👀 Atuando com Estagio em desenvolvimento Java
-- 🌱 Estudando para me tornar um desenvolvedor fullstack
-- 📖 Gosto de jogar games online e ler livros sobre mitologias
+- 🌱 Estudando para me tornar um Desenvolvedor fullstack
+- 📖 Gosto de jogar games online e ler livros
 - 💻 Minha conta no HackerRank (https://www.hackerrank.com/GustavoLana)
 - 📫 Como entrar em contato comigo? (gustavolr401@gmail.com)
 
