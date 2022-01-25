@@ -1,6 +1,6 @@
 **Olá, eu sou o Gustavo !!**
 
-- 👀 Atuando como estagiário em desenvolvimento Java + React Native/Expo
+- 👀 Atuando como estagiário em desenvolvimento Java + JSF
 - 🌱 Estudando para me tornar um Desenvolvedor Fullstack
 - 📖 Gosto de jogar games online e ler livros
 - 💻 Minha conta no HackerRank (https://www.hackerrank.com/GustavoLana)
