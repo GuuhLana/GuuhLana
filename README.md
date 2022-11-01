@@ -1,7 +1,7 @@
 **Olá, eu sou o Gustavo !!**
 
-- 📖 Gosto de ler livros e jogar games online 
-- 💻 Minha conta no HackerRank (https://www.hackerrank.com/GustavoLana)
+- 🎮 Gosto de esportes e passar raiva com games online
+- 💻 Busco me tornar um grande Desenvolvedor Fullstack
 - 📫 Como entrar em contato comigo? (gustavolr401@gmail.com)
 
   ##
