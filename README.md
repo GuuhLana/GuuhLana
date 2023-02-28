@@ -1,7 +1,7 @@
 **Olá, eu sou o Gustavo !!**
 
 - 🎮 Gosto de esportes e passar raiva com games online
-- 💻 Busco me tornar um grande Desenvolvedor Fullstack
+- 💻 Busco me tornar um Desenvolvedor Fullstack
 - 📫 Como entrar em contato comigo? (gustavolr401@gmail.com)
 
   ##
