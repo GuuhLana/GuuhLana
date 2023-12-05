@@ -1,7 +1,7 @@
 **Olá, eu sou o Gustavo !!**
 
 - 🎮   Gosto de esportes e passar raiva com games online
-- 💻   Busco me tornar um Desenvolvedor Fullstack
+- 💻   Desenvolvedor Fullstack Júnior
 - 📫   Como entrar em contato comigo? (gustavolr401@gmail.com)
 - 🚀   Meu website: https://meu-website-two.vercel.app/
 
