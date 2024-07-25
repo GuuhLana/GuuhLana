@@ -1,15 +1,15 @@
   ## **Olá, eu sou o Gustavo !!**
 
-- 🎮   Gosto de esportes e passar raiva com games online
+- 🎮   Gosto de esportes e jogos online
 - 💻   Desenvolvedor Fullstack Java Júnior
 - 📫   Como entrar em contato comigo? (gustavolr401@gmail.com)
-- 🚀   Meu website: https://meu-website-two.vercel.app/
+- 🚀   Meu website: https://gustavo-rocha.vercel.app/
 
   ##
   
 <div align="center">
   <a href="https://github.com/GuuhLana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuuhLana&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuuhLana&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuuhLana&layout=compact&langs_count=6&theme=prussian"/>
 </div>
 
