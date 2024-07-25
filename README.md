@@ -39,12 +39,3 @@
  ![Snake animation](https://github.com/GuuhLana/GuuhLana/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-  ## 📊 Meu projeto recente:
-- GSTBANK-UI
-- [GSTBANK-API]([url](https://github.com/GuuhLana/gstbankapi))
-
-  📚 Interesses:
-- Desenvolvimento Fullstack utilizando majoritariamente Java e Angular
-- Aprender novas tecnologias
-- Contribuir para projetos
