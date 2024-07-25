@@ -1,7 +1,7 @@
-**Olá, eu sou o Gustavo !!**
+  ## **Olá, eu sou o Gustavo !!**
 
 - 🎮   Gosto de esportes e passar raiva com games online
-- 💻   Desenvolvedor Fullstack Júnior
+- 💻   Desenvolvedor Fullstack Java Júnior
 - 📫   Como entrar em contato comigo? (gustavolr401@gmail.com)
 - 🚀   Meu website: https://meu-website-two.vercel.app/
 
@@ -39,3 +39,13 @@
  ![Snake animation](https://github.com/GuuhLana/GuuhLana/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+  ## 📊 Meu projeto recente:
+[GSTBANK-UI]([url](https://github.com/GuuhLana/gstbankfront))
+[GSTBANK-API]([url](https://github.com/GuuhLana/gstbankapi))
+
+
+  ## 📚 Interesses:
+Desenvolvimento Fullstack utilizando majoritariamente Java e Angular
+Aprender novas tecnologias
+Contribuir para projetos
