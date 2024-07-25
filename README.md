@@ -41,11 +41,10 @@
 </div>
 
   ## 📊 Meu projeto recente:
-[GSTBANK-UI]([url](https://github.com/GuuhLana/gstbankfront))
-[GSTBANK-API]([url](https://github.com/GuuhLana/gstbankapi))
+- GSTBANK-UI
+- [GSTBANK-API]([url](https://github.com/GuuhLana/gstbankapi))
 
-
-  ## 📚 Interesses:
-Desenvolvimento Fullstack utilizando majoritariamente Java e Angular
-Aprender novas tecnologias
-Contribuir para projetos
+  📚 Interesses:
+- Desenvolvimento Fullstack utilizando majoritariamente Java e Angular
+- Aprender novas tecnologias
+- Contribuir para projetos
