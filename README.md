@@ -1,9 +1,8 @@
   ## **Olá, eu sou o Gustavo !!**
-
-- 🎮   Gosto de esportes e jogos online
-- 💻   Desenvolvedor Fullstack Java Júnior
+- 💻   Desenvolvedor Java Júnior
 - 📫   Como entrar em contato comigo? (gustavolr401@gmail.com)
 - 🚀   Meu website: https://gustavo-rocha.vercel.app/
+- 📼   Meu canal no Youtube: https://www.youtube.com/@gustavorocha-dev
 
   ##
   
