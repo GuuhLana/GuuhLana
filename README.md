@@ -1,8 +1,8 @@
   ## **Olá, eu sou o Gustavo !!**
 - 💻   Desenvolvedor Java Júnior
 - 📫   Como entrar em contato comigo? (gustavolr401@outlook.com)
-- 🚀   Meu website: https://gustavo-rocha.vercel.app/
-- 📼   Meu canal no Youtube: https://www.youtube.com/@gustavorocha-dev
+- 🚀   Meu website: www.gustavorocha-dev.com
+- 📼   Meu canal no Youtube: www.youtube.com/@gustavorocha-dev
 
 
   ##
