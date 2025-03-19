@@ -1,5 +1,5 @@
   ## **Olá, eu sou o Gustavo !!**
-- 💻   Analista de Sistemas Java
+- 💻   Desenvolvedor Java
 - 📫   Como entrar em contato comigo? (gustavolr401@outlook.com)
 - 🚀   Meu website: www.gustavorocha-dev.com
 - 📼   Meu canal no Youtube: www.youtube.com/@gustavorocha-dev
