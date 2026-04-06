@@ -1,40 +1,81 @@
 # ⚡ root@gustavo:~# whoami
 
-```text
-  ____             _                   
- / ___|_   _  ___ | |_ __ ___   _____  
-| |  _| | | |/ __|| __/ _` \ \ / / _ \ 
-| |_| | |_| |\__ \| || (_| |\ V / (_) |
- \____|\__,_||___/ \__\__,_| \_/ \___/ 
+Gustavo de Lana Rocha  
+Software Engineer @ Samsung SDS  
 
-Software Engineer at Samsung SDS 🏢
-Passionate Software Developer specialized in Java, Spring Boot, and Angular.
-```
+---
 
-```
-💻 System.Diagnostics.getAllSkills()
-☕ Backend & Core
-🎨 Frontend & UI
-🗄️ Databases & Storage
-🧠 AI & Data Science
-☁️ DevOps & Cloud
+## 🧠 about_me.sh
 
-version_control --list
-📈 Git Status
+I am a backend-focused developer with experience in building scalable systems and enterprise applications using Java and the Spring ecosystem.
+I also work with modern frontend technologies and have a growing interest in cloud, messaging systems, and AI.
+
+---
+
+## ⚙️ stack --list
+
+### ☕ Backend
+- Java
+- Spring Boot
+- Spring Security
+- JSF
+- PrimeFaces
+
+### 🎨 Frontend
+- Angular
+- TypeScript
+- Bootstrap
+
+### 🗄️ Databases
+- PostgreSQL
+- Oracle
+- SQL Server
+
+### 🔄 Version Control
+- Git
+- GitHub
+- GitLab
+- SVN
+
+### ☁️ DevOps & Cloud
+- Docker
+- Kubernetes
+- Azure CI/CD
+
+### 🧠 AI & Data
+- Python
+- Machine Learning
+- NLP (PLN)
+
+---
+
+## 📊 git_status
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=guuhlana&show_icons=true&locale=pt-br&layout=compact&theme=dark" alt="guuhlana top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guuhlana&show_icons=true&theme=dark" />
 </p>
-```
 
-```
-📫 Let's Connect
-JSON
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guuhlana&layout=compact&theme=dark" />
+</p>
+
+---
+
+## 🚀 current_focus.log
+
+- Arquitetura de microserviços  
+- Mensageria (Kafka / RabbitMQ)  
+- Aplicações cloud-native  
+- Integração com IA  
+
+---
+
+## 📫 contact.json
+
+```json
 {
   "email": "gustavolr401@outlook.com",
-  "portfolio": "[https://www.gustavorocha-dev.com](https://www.gustavorocha-dev.com)",
-  "youtube": "[https://www.youtube.com/@gustavorocha-dev](https://www.youtube.com/@gustavorocha-dev)"
+  "portfolio": "https://www.gustavorocha-dev.com",
+  "youtube": "https://www.youtube.com/@gustavorocha-dev"
 }
 
-Bash
-$ exit
-```
