@@ -9,7 +9,9 @@
 
 Software Engineer at Samsung SDS 🏢
 Passionate Software Developer specialized in Java, Spring Boot, and Angular.
+```
 
+```
 💻 System.Diagnostics.getAllSkills()
 ☕ Backend & Core
 🎨 Frontend & UI
@@ -22,7 +24,9 @@ version_control --list
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guuhlana&show_icons=true&locale=pt-br&layout=compact&theme=dark" alt="guuhlana top languages" />
 </p>
+```
 
+```
 📫 Let's Connect
 JSON
 {
@@ -30,5 +34,7 @@ JSON
   "portfolio": "[https://www.gustavorocha-dev.com](https://www.gustavorocha-dev.com)",
   "youtube": "[https://www.youtube.com/@gustavorocha-dev](https://www.youtube.com/@gustavorocha-dev)"
 }
+
 Bash
 $ exit
+```
